@@ -140,11 +140,11 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
 
 <div class="help">   
                                  
-<img align="left" alt="anderson-pic" height="250" style="border-radius:100px;" src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/assets/cats.gif">
+<img align="left" alt="anderson-pic" height="230" style="border-radius:100px;" src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/assets/cats.gif">
       
-<img align="left" alt="anderson-pic" height="250" style="border-radius:100px;" src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/assets/patolino_dev.gif">
+<img align="left" alt="anderson-pic" height="230" style="border-radius:100px;" src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/assets/patolino_dev.gif">
       
-<img align="left" alt="anderson-pic" height="250" style="border-radius:100px;" src="https://github.com/oieanderson/oieanderson/blob/main/assets/cat-funny-cat.gif?raw=true">
+<img align="left" alt="anderson-pic" height="230" style="border-radius:100px;" src="https://github.com/oieanderson/oieanderson/blob/main/assets/cat-funny-cat.gif?raw=true">
 
 </div>
 

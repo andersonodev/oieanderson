@@ -62,7 +62,49 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
  <img align="right" alt="anderson-pic" height="380" style="border-radius:100px;" src="https://raw.githubusercontent.com/oieanderson/oieanderson/b670b5b32dc23ec6d89ff3e8eb686568f0846116/assets/programming.svg">
  
  
+ <div> 
+ <h2> TECNOLOGIAS QUE EU TENHO MAIS EXPERIÊNCIA</h2>
  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=yellow)
+![NodeJS](https://img.shields.io/badge/-Node-%230d1117.svg?style=for-the-badge&logo=nodedotjs)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![React Native](https://img.shields.io/badge/-React_Native-black?logo=react&logoColor=blue&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-%230d1117.svg?style=for-the-badge&logo=Typescript)
+![Next.js](https://img.shields.io/badge/-Next.js-%230d1117?style=for-the-badge&logo=Next.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-%230d1117.svg?style=for-the-badge&logo=MongoDB)
+![MySQL](https://img.shields.io/badge/-MySQL-%230d1117.svg?style=for-the-badge&logo=MySQL)
+![Bootstrap CSS](https://img.shields.io/badge/bootstrap-%230d1117?style=for-the-badge&logo=bootstrap)
+![Django](https://img.shields.io/badge/-Django-%230d1117.svg?style=for-the-badge&logo=Django)
+![MariaDB](https://img.shields.io/badge/-MariaDB-%230d1117.svg?style=for-the-badge&logo=MariaDB)
+![SASS](https://img.shields.io/badge/-SASS-%230d1117.svg?style=for-the-badge&logo=SASS)
+![JQuery](https://img.shields.io/badge/-JQuery-%230d1117.svg?style=for-the-badge&logo=JQuery)
+
+ </div>
+
+<div class="working">
+<h2> TECNOLOGIAS  QUE EU JÁ ESTUDEI  </h2>
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Vue](https://img.shields.io/badge/vuejs-%230d1117.svg?style=for-the-badge&logo=vuedotjs)
+![Vite](https://img.shields.io/badge/vite-%230d1117.svg?style=for-the-badge&logo=vite&logoColor=%23646CFF)
+![Nuxt](https://img.shields.io/badge/nuxt-%230d1117.svg?style=for-the-badge&logo=nuxtdotjs)
+![Shell script](https://img.shields.io/badge/-Shell_Script-%230d1117.svg?style=for-the-badge&logo=shell-script)
+![Ionic](https://img.shields.io/badge/-Ionic-%230d1117.svg?style=for-the-badge&logo=Ionic)
+![json](https://img.shields.io/badge/-json-%230d1117.svg?style=for-the-badge&logo=json)
+![SQLite](https://img.shields.io/badge/-SQLite-%230d1117.svg?style=for-the-badge&logo=SQLite)
+![Docker](https://img.shields.io/badge/-Docker-%230d1117.svg?style=for-the-badge&logo=Docker)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-%230d1117.svg?style=for-the-badge&logo=PostgreSQL)
+![firebase](https://img.shields.io/badge/-firebase-%230d1117.svg?style=for-the-badge&logo=firebase)
+![Electron](https://img.shields.io/badge/-Electron-%230d1117.svg?style=for-the-badge&logo=Electron)
+![C#](https://img.shields.io/badge/C%23-%230d1117?style=for-the-badge&logo=c-sharp)
+![angularjs](https://img.shields.io/badge/angularjs-%230d1117?style=for-the-badge&logo=angularjs)
+
+</div>
+</div>
  
 ##
 
@@ -74,7 +116,7 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
   
 <p align="left">
   
-<!--  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=oieanderson&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>  VERSÃO COMPLETA -->
+<!--  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=oieanderson&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>  VERSÃO COMPLETA -->
 
 <img width="55%" src="https://github-readme-stats.vercel.app/api?username=oieanderson&hide=contribs,issues,prs&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117"/>
  
@@ -96,13 +138,13 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
 
 ##
 
-<div align="center"  class="help">   
-     
-<img align="left" alt="anderson-pic" height="200" style="border-radius:100px;" src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/assets/cats.gif">
+<div class="help">   
+                                 
+<img align="left" alt="anderson-pic" height="250" style="border-radius:100px;" src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/assets/cats.gif">
       
-<img align="left" alt="anderson-pic" height="200" style="border-radius:100px;" src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/assets/patolino_dev.gif">
+<img align="left" alt="anderson-pic" height="250" style="border-radius:100px;" src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/assets/patolino_dev.gif">
       
-<img align="left" alt="anderson-pic" height="200" style="border-radius:100px;" src="https://github.com/oieanderson/oieanderson/blob/main/assets/cat-funny-cat.gif?raw=true">
+<img align="left" alt="anderson-pic" height="250" style="border-radius:100px;" src="https://github.com/oieanderson/oieanderson/blob/main/assets/cat-funny-cat.gif?raw=true">
 
 </div>
 

@@ -14,7 +14,8 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/welcome.
 <div class="about-me">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oieanderson&color=blue" alt="Profile views" /> </p>
-                                                                                                          
+   
+<p align="justify">                                                                                                         
 <h3> Olá! Meu nome é Anderson Lima, sou um desenvolvedor full stack(junior) autodidata no Rio de Janeiro. Sou Fascinado por tecnologia e desenvolvimento. Amo a ideia de criar, inovar e inventar, e a tecnologia me permite isso, a área que estou buscando construir meu futuro me abre essa oportunidade, por conta disso optei em seguir esse caminho. Estou a procura do meu primeiro emprego na área. Meus hobbies incluem codar, jardinagem, video-games e tomar um cafezinho. <h3>
 </p>
                    

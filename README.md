@@ -17,7 +17,7 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/welcome.
 
 <h3>
 <p align="justify">                  
-Olá! Meu nome é Anderson Lima, sou um desenvolvedor full stack(junior) autodidata no Rio de Janeiro. Sou Fascinado por tecnologia e desenvolvimento. Amo a ideia de criar, inovar e inventar, e a tecnologia me permite isso, por conta disso optei em seguir esse caminho.                
+Olá! Meu nome é Anderson Lima, sou um desenvolvedor full stack autodidata no Rio de Janeiro. Sou Fascinado por tecnologia e desenvolvimento. Amo a ideia de criar, inovar e inventar, e a tecnologia me permite isso, por conta disso optei em seguir esse caminho.                
 </p>
 <h3>
 

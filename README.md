@@ -124,9 +124,9 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
  
 <img width="43%" src="http://github-readme-streak-stats.herokuapp.com?user=andersonodev&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
 
- <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonodev&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
+ <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonodev&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
 
-<img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=andersonodev&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
+<img width="53%" src="https://github-readme-activity-graph.vercel.app/graph?username=andersonodev&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
 
   
 ![Snake animation](https://github.com/andersonodev/andersonodev/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)

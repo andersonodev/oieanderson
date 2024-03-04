@@ -128,9 +128,9 @@ src="https://raw.githubusercontent.com/oieanderson/oieanderson/main/src/coffee.p
 
 <img width="52%" src="https://github-readme-activity-graph.vercel.app/graph?username=andersonodev&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF"/>
 
- <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=oieanderson&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
+ <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=andersonodev&hide=c%23,scss&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
   
-  <img width="52%" src="https://activity-graph.herokuapp.com/graph?username=oieanderson&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF" alt="GitHub Commits Graph" />
+  <img width="52%" src="https://activity-graph.herokuapp.com/graph?username=andersonodev&theme=dracula&icon_color=DAD3AF&hide_border=true&border_radius=15&bg_color=0d1117&point=FFF" alt="GitHub Commits Graph" />
   
 ![Snake animation](https://github.com/andersonodev/andersonodev/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
   
